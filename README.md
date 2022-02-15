@@ -1,1 +1,1 @@
-# neft_project.github.io
+# neft_project
